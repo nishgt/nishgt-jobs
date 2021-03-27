@@ -91,6 +91,7 @@
 - Ömer Bugur
 - Alperen Arı
 - Erkan Delikkaya
+- Baha Aydınlı
 
 **Dış İlişkiler:**
 - Ömer Bugur
