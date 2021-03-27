@@ -1,5 +1,10 @@
 # nishgt | Tasarım Topluluğu
 
+## SON GÖREVLER
+
+[GÖREVLERE GİT](nishgtOneToDo.md)
+
+
 ## Yönetim Kurulu
 
 **Danışman Öğretmen:**
