@@ -1,4 +1,4 @@
-# Makaleler
+# Makaleler (5 Nisan - 9 Nisan)
 
 ## ÖNEMLİ
 
@@ -7,10 +7,11 @@
 - Görseller [compressor.io](http://compressor.io/) sitesinden optimize edilmeli.
 - Az ve öz görsel kullanılmalı.
 - Başlıklar çok uzun olmamalı.
+- Yazıları [Markdown](https://guides.github.com/features/mastering-markdown/) yazabilirsiniz.
 
-## Makale Başlıkları (5 Nisan - 9 Nisan)
+## Makale Başlıkları 
 
-- [x] Ömer Ayyıldız: David Anderson
+- [ ] Ömer Ayyıldız: David Anderson
 - [ ] Kardelen Büyük: Laszlo Moholy Nagy
 - [ ] Sümeyye Ütnü: Victor Moscoso
 - [ ] Özlem Uçkun: Alain Fleischer
