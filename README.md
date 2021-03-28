@@ -1,9 +1,10 @@
 # nishgt | Tasarım Topluluğu
 
-## SON GÖREVLER
+# ✅ SON GÖREVLER ✅
 
-[GÖREVLERE GİT](nishgtOneToDo.md)
+[GÖREVLERE GİT](todo.md)
 
+# Hiyerarşi ve Takımlar
 
 ## Yönetim Kurulu
 
@@ -18,7 +19,7 @@
 - Kardelen Büyük
 - Muhammet Ali Çaylak
 
-# EKİPLER
+---
 
 ## Teknik Ekip
 
@@ -35,6 +36,8 @@
 
 **Yeni Proje Planlama (Dijital):**
 - Sümeyye Ütnü
+
+---
 
 ## Sosyal Medya
 
@@ -53,6 +56,8 @@
 **YouTube:**
 - Muhammet Ali Çaylak
 - Ömer Ayyıldız
+
+---
 
 ## İçerik Üretimi
 
@@ -86,6 +91,10 @@
 - Kardelen Büyük
 - Yiğit Bozkurt
 - Aybüke Yassıyurt
+
+---
+
+## Topluluk Yönetimi
 
 **Discord Topluluğu:**
 - Ömer Bugur
