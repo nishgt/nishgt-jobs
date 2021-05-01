@@ -1,9 +1,5 @@
 # nishgt | Tasarım Topluluğu
 
-# ✅ SON GÖREVLER ✅
-
-[GÖREVLERE GİT](todo.md)
-
 # Hiyerarşi ve Takımlar
 
 ## Yönetim Kurulu
@@ -44,6 +40,7 @@
 **Instagram:**
 - Yağmur Sezgin
 - İbrahim İçmeli
+- Kadir Şahin
 
 **Twitter:**
 - Yağmur Sezgin
@@ -66,14 +63,13 @@
 - Kardelen Büyük
 - Sümeyye Ütnü
 - Özlem Uçkun
-- Cansu Ergün
-- Melih İnce
 
 **Dijital Görsel İçerik:**
 - Ömer Ayyıldız
 - Kadir Şahin
 - Yiğit Bozkurt
 - Muhammet Ali Çaylak
+- Cansu Ergün
 
 **Video İçerik:**
 - Muhammet Ali Çaylak
@@ -85,7 +81,7 @@
 - Kadir Şahin
 - Aysima Arslan
 
-**Fiziksel Sergi:**
+**Fiziksel İçerik ve Ürün:**
 - Zehra Toprak
 - Sibel Öneryıldız
 - Kardelen Büyük
@@ -101,6 +97,7 @@
 - Alperen Arı
 - Erkan Delikkaya
 - Baha Aydınlı
+- Kadir Şahin
 
 **Dış İlişkiler:**
 - Ömer Bugur
